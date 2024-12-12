@@ -1,7 +1,20 @@
-# product-backend
+## Setup
 
-1. npm install
+```bash
+npm install
+```
 
-2. npm start
+## Development Server
 
-3. new terminal & node server.js
+Start the development server on `http://localhost:3001/products`:
+
+```bash
+npm start
+```
+
+Start the development server on `http://localhost:5000/products`:
+
+```bash
+# new terminal / cmd
+node server.js
+```
