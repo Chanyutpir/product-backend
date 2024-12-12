@@ -7,12 +7,10 @@ const app = express();
 const PORT = 5000;
 
 app.use(express.json());
-// ใช้ CORS middleware แบบอนุญาตทั้งหมด
 app.use(cors());
 
 const BASE_URL = "http://localhost:3001/products";
 
-// CREATE: เพิ่มสินค้าใหม่
 app.post("/products", async (req, res) => {
   try {
     const response = await axios.post(BASE_URL, req.body);
@@ -24,7 +22,6 @@ app.post("/products", async (req, res) => {
   }
 });
 
-// READ: ดึงข้อมูลสินค้าทั้งหมด
 app.get("/products", async (req, res) => {
   try {
     const response = await axios.get(BASE_URL);
@@ -36,7 +33,6 @@ app.get("/products", async (req, res) => {
   }
 });
 
-// READ: ดึงข้อมูลสินค้าตาม ID
 app.get("/products/:id", async (req, res) => {
   try {
     const response = await axios.get(`${BASE_URL}/${req.params.id}`);
@@ -48,7 +44,6 @@ app.get("/products/:id", async (req, res) => {
   }
 });
 
-// UPDATE: อัปเดตข้อมูลสินค้า
 app.put("/products/:id", async (req, res) => {
   try {
     const response = await axios.put(`${BASE_URL}/${req.params.id}`, req.body);
@@ -60,7 +55,6 @@ app.put("/products/:id", async (req, res) => {
   }
 });
 
-// DELETE: ลบสินค้า
 app.delete("/products/:id", async (req, res) => {
   try {
     await axios.delete(`${BASE_URL}/${req.params.id}`);
