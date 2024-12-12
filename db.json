@@ -1,0 +1,204 @@
+{
+  "products": [
+    {
+      "sku": "1001",
+      "product_name": "ถ้วยพลาสติกใส",
+      "product_path_img": "https://down-th.img.susercontent.com/file/th-11134207-7r98y-lthyz6ktt9aga9@resize_w900_nl.webp",
+      "price": 1000,
+      "product_detail": "ถ้วยพลาสติกใส ใช้สำหรับใส่ของหวานหรือเครื่องดื่ม",
+      "product_size": "100 ml",
+      "product_weight": "10 g",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "sku": "1002",
+      "product_name": "ช้อนพลาสติกเล็ก",
+      "product_path_img": "https://down-th.img.susercontent.com/file/bcea9756064dd94e5efa248f218b976a@resize_w900_nl.webp",
+      "price": 2000,
+      "product_detail": "ช้อนพลาสติกเล็ก สำหรับใส่ในกล่องอาหาร",
+      "product_size": "12 cm",
+      "product_weight": "5 g"
+    },
+    {
+      "id": "3",
+      "sku": "1003",
+      "product_name": "กล่องกระดาษใส่อาหาร",
+      "product_path_img": "https://down-th.img.susercontent.com/file/th-11134207-7r98v-loqb77vindq528@resize_w900_nl.webp",
+      "price": 1000,
+      "product_detail": "กล่องกระดาษสำหรับใส่อาหารกลางวันหรือของหวาน",
+      "product_size": "15x15x5 cm",
+      "product_weight": "50 g"
+    },
+    {
+      "id": "4",
+      "sku": "1004",
+      "product_name": "แก้วพลาสติกใสพร้อมฝา",
+      "product_path_img": "https://down-th.img.susercontent.com/file/8fd0d56b9d9cfa4968abc579ebd46c8f@resize_w900_nl.webp",
+      "price": 1000,
+      "product_detail": "แก้วพลาสติกใสพร้อมฝา เหมาะสำหรับใส่น้ำเย็น",
+      "product_size": "300 ml",
+      "product_weight": "20 g"
+    },
+    {
+      "id": "5",
+      "sku": "1005",
+      "product_name": "หลอดพลาสติกสีสัน",
+      "product_path_img": "https://down-th.img.susercontent.com/file/sg-11134201-7rfi5-m37qdj2khugz3c@resize_w900_nl.webp",
+      "price": 1000,
+      "product_detail": "หลอดพลาสติกสีสันสวยงาม ใช้กับแก้วน้ำ",
+      "product_size": "20 cm",
+      "product_weight": "3 g"
+    },
+    {
+      "id": "6",
+      "sku": "1006",
+      "product_name": "กล่องกระดาษรองอาหาร",
+      "product_path_img": "https://down-th.img.susercontent.com/file/9147275fc17f4c3654a4844d5b3b6840@resize_w900_nl.webp",
+      "price": 1000,
+      "product_detail": "กล่องกระดาษรองอาหารเหมาะสำหรับใส่ข้าวหรือของทอด",
+      "product_size": "20x10x5 cm",
+      "product_weight": "40 g"
+    },
+    {
+      "id": "7",
+      "sku": "1007",
+      "product_name": "จานพลาสติกสีขาว",
+      "product_path_img": "https://down-th.img.susercontent.com/file/sg-11134201-7rbm0-lnkximyfdxc58e@resize_w900_nl.webp",
+      "price": 1000,
+      "product_detail": "จานพลาสติกสีขาว ขนาดพอเหมาะสำหรับใส่อาหารจานเดียว",
+      "product_size": "25 cm",
+      "product_weight": "100 g"
+    },
+    {
+      "id": "8",
+      "sku": "1008",
+      "product_name": "ถุงกระดาษใส่อาหาร",
+      "product_path_img": "https://down-th.img.susercontent.com/file/ef87b2fa2157906df359225a94f4ea0d@resize_w900_nl.webp",
+      "price": 1000,
+      "product_detail": "ถุงกระดาษสำหรับใส่อาหารหรือขนมขนาดเล็ก",
+      "product_size": "15x10x5 cm",
+      "product_weight": "15 g"
+    },
+    {
+      "id": "9",
+      "sku": "1009",
+      "product_name": "ฝาพลาสติกสำหรับแก้ว",
+      "product_path_img": "https://down-th.img.susercontent.com/file/9fac289bd0917d852ff0b245df08c254@resize_w900_nl.webp",
+      "price": 1000,
+      "product_detail": "ฝาพลาสติกสำหรับปิดแก้วน้ำป้องกันการหก",
+      "product_size": "Diameter 10 cm",
+      "product_weight": "8 g"
+    },
+    {
+      "id": "10",
+      "sku": "1010",
+      "product_name": "ชามพลาสติกใส",
+      "product_path_img": "https://down-th.img.susercontent.com/file/f4ae560fe0d2760ce1d895eb96bd3638@resize_w900_nl.webp",
+      "price": 1000,
+      "product_detail": "ชามพลาสติกใสสำหรับใส่ของหวานหรืออาหาร",
+      "product_size": "500 ml",
+      "product_weight": "30 g"
+    },
+    {
+      "id": "11",
+      "sku": "1011",
+      "product_name": "ช้อนกระดาษสีธรรมชาติ",
+      "product_path_img": "https://down-th.img.susercontent.com/file/64073d4f2106dcdee163a9f7579f28de@resize_w900_nl.webp",
+      "price": 1000,
+      "product_detail": "ช้อนกระดาษสีธรรมชาติใช้ครั้งเดียว",
+      "product_size": "10 cm",
+      "product_weight": "4 g"
+    },
+    {
+      "id": "12",
+      "sku": "1012",
+      "product_name": "กล่องข้าวพลาสติก",
+      "product_path_img": "https://down-th.img.susercontent.com/file/a8a3f2e2dfa6660a52d710fa42be3bbb@resize_w900_nl.webp",
+      "price": 1000,
+      "product_detail": "กล่องข้าวพลาสติกแข็งแรงพร้อมฝาปิด",
+      "product_size": "20x15x5 cm",
+      "product_weight": "60 g"
+    },
+    {
+      "id": "13",
+      "sku": "1013",
+      "product_name": "กล่องใส่อาหารสองช่อง",
+      "product_path_img": "https://down-th.img.susercontent.com/file/8e2594476164551c67b5f73aaee750b7@resize_w900_nl.webp",
+      "price": 20000,
+      "product_detail": "กล่องใส่อาหารสองช่อง แยกประเภทอาหารได้",
+      "product_size": "25x15x5 cm",
+      "product_weight": "70 g"
+    },
+    {
+      "id": "14",
+      "sku": "1014",
+      "product_name": "หลอดกระดาษลายทาง",
+      "product_path_img": "https://down-th.img.susercontent.com/file/th-11134207-7qukz-linwga9yr0cxa8@resize_w900_nl.webp",
+      "price": 1000,
+      "product_detail": "หลอดกระดาษลายทาง ใช้กับเครื่องดื่มเย็น",
+      "product_size": "20 cm",
+      "product_weight": "4 g"
+    },
+    {
+      "id": "15",
+      "sku": "1015",
+      "product_name": "ถ้วยกระดาษพร้อมฝา",
+      "product_path_img": "https://down-th.img.susercontent.com/file/th-11134207-7r992-lyk88chg38h53f@resize_w900_nl.webp",
+      "price": 1000,
+      "product_detail": "ถ้วยกระดาษพร้อมฝา เหมาะสำหรับใส่กาแฟหรือชา",
+      "product_size": "300 ml",
+      "product_weight": "30 g"
+    },
+    {
+      "id": "16",
+      "sku": "1016",
+      "product_name": "กล่องใส่แซนด์วิช",
+      "product_path_img": "https://down-th.img.susercontent.com/file/th-11134207-23010-5qi1sff5i6lv1f@resize_w900_nl.webp",
+      "price": 1000,
+      "product_detail": "กล่องกระดาษใส่แซนด์วิชแบบโปร่งใส",
+      "product_size": "10x10x5 cm",
+      "product_weight": "20 g"
+    },
+    {
+      "id": "17",
+      "sku": "1017",
+      "product_name": "จานกระดาษลายดอกไม้",
+      "product_path_img": "https://down-th.img.susercontent.com/file/46724fece8587dd2288efd1c6b82215f@resize_w900_nl.webp",
+      "price": 1000,
+      "product_detail": "จานกระดาษลายดอกไม้ เหมาะสำหรับงานเลี้ยง",
+      "product_size": "20 cm",
+      "product_weight": "15 g"
+    },
+    {
+      "id": "18",
+      "sku": "1018",
+      "product_name": "ถุงซิปล็อคใส",
+      "product_path_img": "https://down-th.img.susercontent.com/file/th-11134207-7r98r-ltlseph8l3k80c@resize_w900_nl.webp",
+      "price": 1000,
+      "product_detail": "ถุงซิปล็อคใส เหมาะสำหรับเก็บอาหารหรือขนม",
+      "product_size": "10x15 cm",
+      "product_weight": "10 g"
+    },
+    {
+      "id": "19",
+      "sku": "1019",
+      "product_name": "ถุงกระดาษหูหิ้ว",
+      "product_path_img": "https://down-th.img.susercontent.com/file/sg-11134201-22100-ypz8tf1462iva8@resize_w900_nl.webp",
+      "price": 1000,
+      "product_detail": "ถุงกระดาษหูหิ้วสำหรับใส่อาหารหรือของฝาก",
+      "product_size": "20x25x10 cm",
+      "product_weight": "50 g"
+    },
+    {
+      "id": "20",
+      "sku": "1020",
+      "product_name": "กล่องอาหารฝาปิดพลาสติก",
+      "product_path_img": "https://down-th.img.susercontent.com/file/2fa5177be7c2ed5a77dd704c87aac407.webp",
+      "price": 1000,
+      "product_detail": "ฝาปิดกล่องอาหารพลาสติกแบบโปร่งใส",
+      "product_size": "15x10 cm",
+      "product_weight": "8 g"
+    }
+  ]
+}
