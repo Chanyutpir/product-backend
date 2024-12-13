@@ -1,14 +1,14 @@
 {
   "products": [
     {
+      "id": "1",
       "sku": "1001",
       "product_name": "ถ้วยพลาสติกใส",
       "product_path_img": "https://down-th.img.susercontent.com/file/th-11134207-7r98y-lthyz6ktt9aga9@resize_w900_nl.webp",
       "price": 1000,
       "product_detail": "ถ้วยพลาสติกใส ใช้สำหรับใส่ของหวานหรือเครื่องดื่ม",
       "product_size": "100 ml",
-      "product_weight": "10 g",
-      "id": "1"
+      "product_weight": "10 g"
     },
     {
       "id": "2",
@@ -199,6 +199,26 @@
       "product_detail": "ฝาปิดกล่องอาหารพลาสติกแบบโปร่งใส",
       "product_size": "15x10 cm",
       "product_weight": "8 g"
+    },
+    {
+      "id": "21",
+      "sku": "1021",
+      "product_name": "ทดสอบ",
+      "product_path_img": "https://down-th.img.susercontent.com/file/sg-11134201-7rdxb-m14dxkjp6hhm5f.webp",
+      "price": 500,
+      "product_detail": "ทดสอบ",
+      "product_size": "ทดสอบระบบ",
+      "product_weight": "112"
+    },
+    {
+      "id": "22",
+      "sku": "1022",
+      "product_name": "ทดสอบ 2",
+      "product_path_img": "https://down-th.img.susercontent.com/file/th-11134207-7r98q-llq1ujfcfoni56@resize_w900_nl.webp",
+      "price": 700,
+      "product_detail": "ทดสอบ 2",
+      "product_size": "ทดสอบระบบ 2",
+      "product_weight": "211"
     }
   ]
 }
